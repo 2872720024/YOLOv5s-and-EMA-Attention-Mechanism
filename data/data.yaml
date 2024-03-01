@@ -1,0 +1,9 @@
+path: ../datasets/data2
+train: train/images
+val: valid/images
+nc: 4
+names:
+- g
+- f
+- e
+- d

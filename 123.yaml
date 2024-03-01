@@ -1,0 +1,14 @@
+type: yolov5
+name: yolov5
+display_name: yolov5
+model_path: D:/yolov5/yolov5-v6.2/best.onnx
+input_width: 640
+input_height: 640
+score_threshold: 0.30
+nms_threshold: 0.45
+confidence_threshold: 0.4
+classes:
+  - e
+  - f
+  - g
+  - d
